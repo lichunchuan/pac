@@ -1,0 +1,12 @@
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\bin\Debug\net5.0\MathsLibrary.deps.json
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\bin\Debug\net5.0\MathsLibrary.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\bin\Debug\net5.0\ref\MathsLibrary.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\bin\Debug\net5.0\MathsLibrary.pdb
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.csproj.AssemblyReference.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\ref\MathsLibrary.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\MathsLibrary\obj\Debug\net5.0\MathsLibrary.pdb

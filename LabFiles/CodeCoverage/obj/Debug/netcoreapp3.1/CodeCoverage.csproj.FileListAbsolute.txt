@@ -1,0 +1,14 @@
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.exe
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.deps.json
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.runtimeconfig.json
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.runtimeconfig.dev.json
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\bin\Debug\netcoreapp3.1\CodeCoverage.pdb
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.GeneratedMSBuildEditorConfig.editorconfig
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.dll
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.pdb
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.genruntimeconfig.cache
+\\adir.hull.ac.uk\home\690\690085\Unit Testing\LabFiles\CodeCoverage\obj\Debug\netcoreapp3.1\CodeCoverage.csproj.AssemblyReference.cache
